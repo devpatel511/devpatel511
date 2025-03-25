@@ -1,7 +1,12 @@
+### ⭐️ Check out my deployed projects:
+1. ♟️[MetaChess](https://metachess-dev.vercel.app/) - An internet chess platform | Play locally, online or against a computer
+2. 🎵[Bhakti](https://www.bhaktis.live/) - Spotify... but for spiritual music
+3. 💲[PayPal-to-YT](https://youtube-msg-automation.vercel.app/) - Youtube messaging automation, allowing YouTubers to monetize their PayPal and collect 30% more income
+
 <!--
 https://dev.to/envoy_/150-badges-for-github-pnk
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=devpatel511&amp;theme=ambient_gradient" alt="Dev's github stats"></a></p>
--->
+
 
 ### ⭐️ Experiences: 
 ML SWE @Cerebras, Prev. CS Researcher/Developer @UofT, DevOps Eng. @OMERS, SWE @RFF
@@ -14,6 +19,7 @@ ML SWE @Cerebras, Prev. CS Researcher/Developer @UofT, DevOps Eng. @OMERS, SWE @
 
 ### 📟 Technologies:
 <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+-->
 
 ### 🤝 Connect with me!<br>
 <a href="https://www.linkedin.com/in/devpatel511/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:devpatel511@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
