@@ -1,7 +1,7 @@
 ### ⭐️ Check out my unique pieces of work:
 1. ♟️[MetaChess](https://metachess-dev.vercel.app/) - An internet chess platform | Play locally, online or against a computer
 2. 🎵[Bhakti](https://www.bhaktis.live/) - Spotify... but for spiritual music
-3. 💲[PayPal-to-YT](https://youtube-msg-automation.vercel.app/) - Youtube messaging automation, allowing YouTubers to monetize their PayPal and collect 30% more income
+3. 💲[PayPal-to-YT](https://youtube-msg-automation.vercel.app/) - YouTube messaging automation, allowing YouTubers to monetize their PayPal and collect 30% more income
 
 <!--
 https://dev.to/envoy_/150-badges-for-github-pnk
